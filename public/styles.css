@@ -1,0 +1,14 @@
+html body{
+    background-color:#f0333a;
+}
+
+#winners{
+    background-color:#6C757D;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#prizes{
+    border-radius: 25px;
+}
+
